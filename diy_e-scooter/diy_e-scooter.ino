@@ -322,9 +322,9 @@ void handleSlowDisplay(){
     screen.setTextColor(COLOR_RGB565_RED);
   }
   screen.print(knots);
-  if (knots >= cruisesetspeed+4.00){//reset cruise if current speed goes above cruisesetspeed + 4
-    cruiseon = false;
-  }
+  //if (knots >= cruisesetspeed+4.00){//reset cruise if current speed goes above cruisesetspeed + 4
+  //  cruiseon = false;
+  //}
   
   //temperature
   screen.setTextSize(2);
