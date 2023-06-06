@@ -10,6 +10,8 @@ The "DIY_E-Scooter Libraries.zip" file is a compressed file of all the libaries 
 
 The "diy_e-scooter" folder has the "diy_e-scooter.ino" sketch in it, which is the entire code for this project currently.  This code runs without any WiFi or wireless activity.  A new version is coming soon that includes WiFi using the Arduino Cloud!
 
+The "diy_e-scooter_cloud" folder has the "diy_e-scooter_cloud.ino" sketch in it, which is the entire code for this project that includes the use of the Arduino Cloud!  The Cloud is used to lock / unlock the scooter remotely, check to see if its stolen, and set a speed limit for yourself!  This version also includes an updated version of the LEDs that work; this includes turning signals for left and right (that can be controlled with left and right gestures, and also come on automatically) and a brake light that comes on automatically if youre slowing down.
+
 # Updates
 There will be more updates coming after further testing!  This is only the first version.
 
