@@ -6,7 +6,8 @@ https://www.hackster.io/k-gray/diy-arduino-firebeetle-e-scooter-6148d2
 
 ## NOTE
 
-Remember to always use the latest code version!  Any previous versions may not work properly.  The newest version is "V1.2" found in versions.
+Remember to always use the latest code version!  Any previous versions may not work properly.  The newest version is "V1.2" found in releases.
+
 ## Explanation of files
 
 The "DIY_E-Scooter Libraries.zip" file is a compressed file of all the libaries used in this project.  If using the Arduino Cloud, just import this one file in the libraries section, and you will have no issues at all!
