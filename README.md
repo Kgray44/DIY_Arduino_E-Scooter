@@ -22,3 +22,5 @@ The diy_e-scooter_cloud_v3 is the most updated!  It includes better motor contro
 There will be more updates coming after further testing!  This is only the first version.
 
 WS2812 LEDs for turning signals and braking lights have been completed!
+
+Better WiFI updates coming soon...
