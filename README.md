@@ -6,7 +6,7 @@ https://www.hackster.io/k-gray/diy-arduino-firebeetle-e-scooter-6148d2
 
 ## NOTE
 
-Remember to always use the latest code version!  Any previous versions may not work properly.  The newest version is "V1.2" found in releases.
+Remember to always use the latest code version!  Any previous versions may not work properly.  The newest version is "V1.4" found in releases.
 
 ## Explanation of files
 
