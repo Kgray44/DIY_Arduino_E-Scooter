@@ -23,8 +23,16 @@ The diy_e-scooter_cloud_v4 includes some better additions to the WiFi (although 
 The diy_e-scooter_cloud_v5 includes the capability of adding a current sensor, along with separating the WiFi related code from the main code, and placing it in a seperate code tab!
 
 # Updates
-There will be more updates coming after further testing!  This is only the first version.
+There will be more updates coming after further testing!
 
 WS2812 LEDs for turning signals and braking lights have been completed!
 
-Better WiFI updates coming soon...
+Throttle response improvements have been completed!
+
+Beter motor control has been completed!
+
+Current sensor addition completed!
+
+Seperate code tab for pin definitions completed!
+
+Better WiFi updates coming soon...
