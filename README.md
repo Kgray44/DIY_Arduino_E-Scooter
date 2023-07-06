@@ -6,7 +6,7 @@ https://www.hackster.io/k-gray/diy-arduino-firebeetle-e-scooter-6148d2
 
 ## NOTE
 
-Remember to always use the latest code version!  Any previous versions may not work properly.  The newest version is "V1.4" found in releases.
+Remember to always use the latest code version!  Any previous versions may not work properly, although you can try to use them anyways if you'd like to.  The newest version is "V1.5" found in releases.
 
 ## Explanation of files
 
@@ -19,6 +19,8 @@ The "diy_e-scooter_cloud" folder has the "diy_e-scooter_cloud.ino" sketch in it,
 The diy_e-scooter_cloud_v3 includes better motor control, and the option to set the voltage conversion to on or off.
 
 The diy_e-scooter_cloud_v4 includes some better additions to the WiFi (although I am not completely finished), and a better throttle control!  The starting screen now displays WiFi info.
+
+The diy_e-scooter_cloud_v5 includes the capability of adding a current sensor, along with separating the WiFi related code from the main code, and placing it in a seperate code tab!
 
 # Updates
 There will be more updates coming after further testing!  This is only the first version.
