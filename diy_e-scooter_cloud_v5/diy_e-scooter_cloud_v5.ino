@@ -185,6 +185,8 @@ void setup() {
     pixels.show();
   }
 
+  WiFiStart();
+  
   screen.begin();
   screen.setRotation(3);
 
@@ -252,6 +254,7 @@ void loop() {
     pixels.clear();
     pixels.show();  
   }
+  WiFiRun();
   if (locked){
     lockedloop();
     if (satelites > 8){
