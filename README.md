@@ -29,16 +29,16 @@ The Current/e-scooter is my exact code I currently use!  It includes better WiFi
 # Updates
 There will be more updates coming after further testing!
 
-WS2812 LEDs for turning signals and braking lights have been completed!
+WS2812 LEDs for turning signals and braking lights have been completed! (not setup in the "Current" code)
 
-Throttle response improvements have been completed!
+Throttle response improvements have been completed! (Even more improvements in the new update! 06/07/2024)
 
-Beter motor control has been completed!
+Better motor control has been completed! (Even more improvements in the new update! 06/07/2024)
 
 Current sensor addition completed!
 
-Seperate code tab for pin definitions completed!
+Seperate code tab for pin definitions completed! (Added several more tabs for better organization! 06/07/2024)
 
 ~~Better WiFi updates coming soon...~~
 
-Better WiFi updates completed!
+Better WiFi updates completed! (06/07/2024)
