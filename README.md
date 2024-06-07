@@ -22,6 +22,10 @@ The diy_e-scooter_cloud_v4 includes some better additions to the WiFi (although 
 
 The diy_e-scooter_cloud_v5 includes the capability of adding a current sensor, along with separating the WiFi related code from the main code, and placing it in a seperate code tab!
 
+### UPDATED (06/07/2024)
+
+The Current/e-scooter is my exact code I currently use!  It includes better WiFi, better motor control, and better organization!
+
 # Updates
 There will be more updates coming after further testing!
 
@@ -35,4 +39,6 @@ Current sensor addition completed!
 
 Seperate code tab for pin definitions completed!
 
-Better WiFi updates coming soon...
+~~Better WiFi updates coming soon...~~
+
+Better WiFi updates completed!
